@@ -14,7 +14,7 @@ O [site](https://study-origamid-bootstrap.vercel.app/) foi desenvolvido utilizan
 - [Tooltips](https://getbootstrap.com/docs/4.0/components/tooltips/)
 - [Tabelas](https://getbootstrap.com/docs/4.0/content/tables/)
 
-<img src="./src/assets/gifBootstrap.gif" alt="gif"/>
+<img src="./img/gifBootstrap.gif" alt="gif"/>
 
 ## Instruções
 
